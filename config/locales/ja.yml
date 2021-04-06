@@ -1,0 +1,13 @@
+ja:
+  create: 作成
+  read: 表示
+  # views
+  home:
+    index:
+      title: たいとる
+  # controllers
+  users:
+    create:
+      notice: 新規ユーザー登録完了
+    update:
+      notice: ユーザーデータ更新完了
